@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews-ia",
+  "version": "1.0.0",
+  "description": "implementação do tabnews.com.br para o o curso.dev utilizando agentes de IA",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowther/clone-tabnews-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowther/clone-tabnews-ia/issues"
+  },
+  "homepage": "https://github.com/knowther/clone-tabnews-ia#readme",
+  "dependencies": {
+    "next": "16.2.12",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
